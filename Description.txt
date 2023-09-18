@@ -1,0 +1,34 @@
+Objectif : 
+- realiser un jeu graphique
+- en javascript
+- médiatisé dans un nav
+
+Description :
+- créer un couple de créatures herbivores (male et femelle)
+
+But du joueur : 
+- paramétrer ses créatures pour survivre le plus longtemps possible
+
+Paramètrage :
+- unique a chaque joueur
+- point a mettre dans 3 axes obligatoires
+
+Axes : 
+- taux reproductivité
+- perception : voir ressources / voire prédateur
+- force : lutter contre prédateurs ou occuper case ou dautres gens veulent aller
+
+Etat pysiologique : 
+- hydratation : si 0 meurt
+- satiété : si 0 meurt
+- énergie : si 0 pas d'action
+
+Actions :
+- déplacer
+- alimenter
+- reproduire
+
+Terrain : répartie aléatoirement
+- eau
+- prairie
+- rocher
