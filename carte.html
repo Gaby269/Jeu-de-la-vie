@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Jeu de la vie</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+<script src="main.js"></script>
+<div id="carte"></div>
+
+<script>
+  function charger(nbj){
+    makeSliders(nbj);
+  }
+</script>
+
+<!--Formulaire pour remplir le nombre de joueurs et la limite des curseurs-->
+<form>
+  <select id="ToHide" name='nbJoueurs' onchange="charger(this.value); return false;">
+    <option value=''>Sélectionnez le nombre de joueurs</option>
+    <option value='1' name="nbjoueurs">1</option>
+    <option value='2' name="nbjoueurs">2</option>
+    <option value='3' name="nbjoueurs">3</option>
+    <option value='4' name="nbjoueurs">4</option>
+  </select><br/>
+
+  <!--Formulaire pour les différents curseurs à remplir-->
+  <p id="texte">Entrez la limite (entre 1 et 20):</p> <input type='number' id="limit" name='limit' max="20" min="1" value="15"/>
+  <br />
+  <p id="texte2">Entrez le nombre de tours (entre 10 et 100):</p> <input type='number' id="nbTours" name='nbTours' max="100" min="10" value="50"/>
+  <br />
+  <!--<input type='button' value='Valider' onclick='displayFormContents(this.form);return false;' />-->
+</form>
+
+<!--Affichage-->
+<div id="affichage"></div>
+<div id="sliders"></div>
+
+<!--Inclusions des biblio et fichier-->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="carte_simple.js"></script>
+<script src="creature.js"></script>
+<script src="predateur.js"></script>
+
+</body>
+</html>

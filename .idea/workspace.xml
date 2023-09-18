@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5377ccbc-a5b5-4888-9f3a-ba4779d0cbc9" name="Changes" comment="ajout de la gestion du nombre de tours par le joueur" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Florian" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24nz4lMhR7KHWgdTFVI6ztp46HB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="untitled" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5377ccbc-a5b5-4888-9f3a-ba4779d0cbc9" name="Changes" comment="début implémentation plus court chemin, à débug" />
+      <created>1644280953533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644280953533</updated>
+      <workItem from="1644280956362" duration="1160000" />
+      <workItem from="1644303380633" duration="163000" />
+      <workItem from="1644303759402" duration="752000" />
+      <workItem from="1644452789103" duration="4031000" />
+      <workItem from="1644499523019" duration="1480000" />
+      <workItem from="1644953230754" duration="225000" />
+      <workItem from="1644953474855" duration="148000" />
+      <workItem from="1644953690526" duration="233000" />
+      <workItem from="1644953940711" duration="137000" />
+      <workItem from="1645016601997" duration="843000" />
+      <workItem from="1646001870407" duration="180000" />
+      <workItem from="1646598303644" duration="1836000" />
+      <workItem from="1649746402693" duration="5272000" />
+      <workItem from="1649757666496" duration="1493000" />
+      <workItem from="1650911170325" duration="13308000" />
+    </task>
+    <task id="LOCAL-00001" summary="début projet">
+      <created>1644303818156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644303818156</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Démo naïve">
+      <created>1644458833929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644458833929</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ajout commentaires pour développement">
+      <created>1644500172852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644500172852</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ajout commentaires pour développement">
+      <created>1644500583373</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644500583373</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ajout de la carte, génération automatique des sliders, modifications creature et nourriture, ajouter une fonction pour calculer le total des stats et une fonction pour ajouter les créatures dans la liste du joueur auquel elle appartient">
+      <created>1644982790751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644982790751</updated>
+    </task>
+    <task id="LOCAL-00006" summary="début déplacements">
+      <created>1645983351706</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645983351706</updated>
+    </task>
+    <task id="LOCAL-00007" summary="correctif fonction totalMouvements()">
+      <created>1646001988311</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646001988311</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ajouts de commentaires, commencement traitement de la nourriture">
+      <created>1649708451442</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649708451442</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ajout de la position de la nourriture">
+      <created>1649747075093</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649747075093</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ajout gestion de l'alimentation">
+      <created>1649757963727</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649757963727</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ajout gestion de l'alimentation">
+      <created>1649773076101</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649773076155</updated>
+    </task>
+    <task id="LOCAL-00012" summary="début implémentation plus court chemin, à débug">
+      <created>1650821339534</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1650821339534</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fin du débugage de parcours">
+      <created>1650938282550</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650938282550</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ébauche prédateur">
+      <created>1650941424316</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1650941424316</updated>
+    </task>
+    <task id="LOCAL-00015" summary="résolutions d'erreurs">
+      <created>1651154776073</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651154776073</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ajout de la gestion du nombre de tours par le joueur">
+      <created>1651161373626</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1651161373626</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ajout de la gestion du nombre de tours par le joueur">
+      <created>1651162657264</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1651162657264</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="début projet" />
+    <MESSAGE value="Démo naïve" />
+    <MESSAGE value="ajout commentaires pour développement" />
+    <MESSAGE value="ajout de la carte, génération automatique des sliders, modifications creature et nourriture, ajouter une fonction pour calculer le total des stats et une fonction pour ajouter les créatures dans la liste du joueur auquel elle appartient" />
+    <MESSAGE value="début déplacements" />
+    <MESSAGE value="correctif fonction totalMouvements()" />
+    <MESSAGE value="ajouts de commentaires, commencement traitement de la nourriture" />
+    <MESSAGE value="ajout de la position de la nourriture" />
+    <MESSAGE value="ajout gestion de l'alimentation" />
+    <MESSAGE value="début implémentation plus court chemin, à débug" />
+    <MESSAGE value="fin du débugage de parcours" />
+    <MESSAGE value="ébauche prédateur" />
+    <MESSAGE value="résolutions d'erreurs" />
+    <MESSAGE value="ajout de la gestion du nombre de tours par le joueur" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout de la gestion du nombre de tours par le joueur" />
+  </component>
+</project>
